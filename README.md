@@ -32,6 +32,9 @@ The model achieved an accuracy of **90 %** on the test set.
 ---
 
 ## 🧰 Libraries Used
+
+- numpy, paandas, matplotlib, sklearn, seaborn
+  
 To install dependencies:
 
 ```bash
